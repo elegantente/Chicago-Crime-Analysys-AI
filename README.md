@@ -1,4 +1,5 @@
-<img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/590603bd-4408-4475-8ca5-fb6435119366" />
+<img width="954" height="571" alt="image" src="https://github.com/user-attachments/assets/d877f529-a1d0-4b39-8a7e-c3ac7b080433" />
+
 Celem projektu jest analiza danych o przestępczości w Chicago oraz budowa
 zaawansowanego modelu uczenia maszynowego, służącego jako narzędzie wsparcia decyzji
 dla funkcjonariuszy policji. Aplikacja umożliwia:

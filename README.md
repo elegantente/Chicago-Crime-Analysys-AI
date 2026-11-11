@@ -2,7 +2,8 @@
 
 baza danych z której korzystałem
 [:https://www.kaggle.com/datasets/chicago/chicago-crime](https://www.kaggle.com/code/kborges/starter-crimes-in-chicago-73b0622b-b/notebook)
-Wiersze: 7 941 282
+<br>
+Wiersze: 7 941 282 
 kolumny:23 
 
 

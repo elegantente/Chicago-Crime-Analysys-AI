@@ -1,12 +1,7 @@
 
-
-https://github.com/user-attachments/assets/c29a047d-8726-4211-ac76-4e4d5f3dd89b
-
 baza danych z której korzystałem :https://www.kaggle.com/datasets/chicago/chicago-crime
 
-
 https://github.com/user-attachments/assets/84586ae6-4818-46b4-a7bd-faf53e82da0a
-
 
 Celem projektu jest analiza danych o przestępczości w Chicago oraz budowa
 zaawansowanego modelu uczenia maszynowego, służącego jako narzędzie wsparcia decyzji

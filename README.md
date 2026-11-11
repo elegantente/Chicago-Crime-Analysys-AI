@@ -1,11 +1,7 @@
 
 baza danych z której korzystałem [:https://www.kaggle.com/datasets/chicago/chicago-crime](https://www.kaggle.com/code/kborges/starter-crimes-in-chicago-73b0622b-b/notebook)
-
-/kaggle/input/Chicago_Crimes_2012_to_2017.csv
-/kaggle/input/Chicago_Crimes_2008_to_2011.csv
-/kaggle/input/Chicago_Crimes_2005_to_2007.csv
-/kaggle/input/Chicago_Crimes_2001_to_2004.csv
-
+Wiersze: 7 941 282
+kolumny:23 
 https://github.com/user-attachments/assets/84586ae6-4818-46b4-a7bd-faf53e82da0a
 
 Celem projektu jest analiza danych o przestępczości w Chicago oraz budowa

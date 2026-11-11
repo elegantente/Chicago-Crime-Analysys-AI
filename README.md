@@ -4,7 +4,12 @@ baza danych z której korzystałem
 Wiersze: 7 941 282
 kolumny:23 
 
+
 https://github.com/user-attachments/assets/84586ae6-4818-46b4-a7bd-faf53e82da0a
+
+
+https://github.com/user-attachments/assets/59055b2c-9d70-4882-b415-4854d8ac0e33
+
 
 Celem projektu jest analiza danych o przestępczości w Chicago oraz budowa
 zaawansowanego modelu uczenia maszynowego, służącego jako narzędzie wsparcia decyzji

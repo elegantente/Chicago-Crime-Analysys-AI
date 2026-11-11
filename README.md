@@ -1,5 +1,6 @@
 
 baza danych z której korzystałem [:https://www.kaggle.com/datasets/chicago/chicago-crime](https://www.kaggle.com/code/kborges/starter-crimes-in-chicago-73b0622b-b/notebook)
+7 941 282 wierszy
 
 https://github.com/user-attachments/assets/84586ae6-4818-46b4-a7bd-faf53e82da0a
 

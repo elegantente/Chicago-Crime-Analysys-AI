@@ -1,4 +1,5 @@
 
+
 baza danych z której korzystałem
 [:https://www.kaggle.com/datasets/chicago/chicago-crime](https://www.kaggle.com/code/kborges/starter-crimes-in-chicago-73b0622b-b/notebook)
 Wiersze: 7 941 282
@@ -10,6 +11,7 @@ https://github.com/user-attachments/assets/84586ae6-4818-46b4-a7bd-faf53e82da0a
 
 https://github.com/user-attachments/assets/59055b2c-9d70-4882-b415-4854d8ac0e33
 
+<img width="990" height="490" alt="52cf7a7d-9c41-4739-a1cd-0d8c01eb53c4" src="https://github.com/user-attachments/assets/99117404-1064-4da4-852a-b1402c1c4f47" />
 
 Celem projektu jest analiza danych o przestępczości w Chicago oraz budowa
 zaawansowanego modelu uczenia maszynowego, służącego jako narzędzie wsparcia decyzji
